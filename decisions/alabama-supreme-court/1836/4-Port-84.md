@@ -1,0 +1,29 @@
+---
+court: "Alabama Supreme Court"
+decided: "1836-06"
+citations: ["4 Port. 84"]
+reporter: "port"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEWIS AND GORMAN vs. BIBB."]
+source_url: "https://static.case.law/port/4/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8497372
+---
+
+# Lewis v. Bibb
+
+## Majority (HOPKINS, J.)
+
+HOPKINS, J.
+— This case was brought into this Court, by a writ of error from the Circuit Court of Lawrence County. Bibb filed his bill on the Chancery side of that Court; in which he stated, that in eighteen hundred and thirty-one, he purchased of Washington Lewis, a piece of land lying in the State of Tennessee, at the price of three hundred dollars « — one half of which was to have been paid on the first of January, eighteen hundred and thirty-two ; and the other, the first of January, eighteen hundred and thirty-three: that he executed a note for each instalment, and received from Lewis a penal bond, conditioned to be void, if the obligor should convey to Bibb a good and sufficient title in fee simple, by the first of January, eighteen hundred and thirty-two, or so soon thereafter as Bibb should pay the first instalment of the purchase money: that the two notes Were transferred by Lewis before the first was due —one to a person unknown, and the other, payable the first of January, eighteen hundred and thirty-three, to Gorman, one of the plaintiffs in error: that Lewis never had any title to the land; was insolvent; and had absconded from the country; and that Gor-man, in January, eighteen hundred and thirty-four, obtained a judgment for the amount due on the note, which had been transferred to him. Upon the bill, the judgment w;as enjoined, and as the defendants to it were not inhabitants of the State, the Circuit Court made the order of publication, which is necessary in such case, and the bill was afterwards taken fro confesso.
+The only deposition which was taken in the cause,proves only that the witness did not know that the title had ever been conveyed by Lewis to Bibb, and that Lewis left the country in the autumn of eighteen hundred and thirty-two ; which must have been eight months after the note, first payable, was due :• but there is no evidence in . the deposition that he was insolvent, or without a title to the land.
+The Court decreed that the injunction, which embraced the note, the holder of which was unknown, as well as the judgment, should be continued, until Lewis should exhibit to that Court a satisfactory title in himself, and a conveyance of it to Bibb. The defendants to the bill were decreed also to pay the costs of this suit, and of that at law, in which the judgment was rendered.
+The agreement of the parties gave Bibb no right to demand a conveyance of the title, until he paid, or should offer to pay, the first instalment of the purchase money. His vendor remained in the country at least eight months after the first noté became due; during which time, he does not pretend that he offered to pay it. If he had complied with his own part of the agreement, or had offered to do so, and the vendor had unjustly withheld the title, — or from having none himself, had been unable to convey it, the action at law could, and ought to, have been defended. If Bibb, with such a defence, at law, had omitted to make it, a Court of Equity would not listen to his complaint of the injustice of the judgment, unless he could make it appear that he had been pr'e-vented by some cause, which he could not control, from defending.the action. But, Bibb liadno defence to the action, because he had not done what the agreement required of him. We know of no principle that authorises a Court of Equity to take jurisdiction of a case, in which, the question presented by the complainant, would have been, if he had complied with his part of the agreement, of a legal character.
+To give relief, in this case, would extend the jurisdiction of Chancery farther than to exercise the power of determining legal questions, which existed before .the trial of an action at law, in which they arose, but were not made; and this power Courts of Equity have always disclaimed.
+Relief to Bibb, would be to supply, in the first place, his omission to do his duty — and in the next, to consider his case as if he had discharged the duty himself, and been prevented by something, over which he had no control, from making his defence to the action at law.
+It does not appear from the record, who has had the possession of the land since it was purchased by Bibb. The inference from what does appear, is, that the possession has been with Bibb. If he had complied with his part of the agreement, he could not have defended the action, upon the ground, that no title had been made to him, while he retained the possession. To give him a right to such a defence, or to entitle him, under any circumstance, to a decree, rescinding the agreement, it was necessary that he should have disaffirmed the contract, by abandon-mg or restoring the possession.
+As the defendants in the suit were neither served with process — -nor inhabitants of the State — and the land lies in another State, — the Circuit Court of the county of Lawrence, could, under no circumstances, have taken jurisdiction of any matter alleged in the bill, but for the judgment which was rendered by the County Court of that county.
+There being nothing in the case, for which the judgment ought to have been enjoined, a decree against the vendor for a specific performance of the agreement could not be made, were the bill framed also for that purpose. Of such a bill, as the land lies in Tennessee, a Court of Equity in that State might take jurisdiction, though the person of the vendor may be beyond the reach of its process.
+The decree is erroneous. Let it be reversed, and the bill dismissed.
+it. 455; 2 Rep. 5i9.
