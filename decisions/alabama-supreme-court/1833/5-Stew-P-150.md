@@ -1,0 +1,39 @@
+---
+court: "Alabama Supreme Court"
+decided: "1833-06"
+citations: ["5 Stew. & P. 150"]
+reporter: "stew-p"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CASTLEBERRY vs THE ADM’R OF PEIRCE."]
+source_url: "https://static.case.law/stew-p/5/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11256169
+---
+
+# Castleberry v. Adm'r of Peirce
+
+## Majority (SAFFOLD, J.)
+
+SAFFOLD, J.
+This was an action of assumpsit, brought in the Circuit Court of St. Clair County, by the present defendant, against the plaintiff in error.
+The declaration contains the various counts, for work and labor, goods, wares, and merchandise; and the common counts, for money had and received, and for money paid, laid out and expended, &c,
+A bill of exceptions, taken on the trial .shows, that Peirce, in his life-time, in March, 1824, purchased of Castleberry a tract of land, and executed two notes for the purchase money, of seven hundred and fifty dollars each, payable to Castleberry — one fell due twelve months after date, the other in March, 1826; also, that he gave to Peirce, a bond, conditioned to make titles to the land on the said last mentioned day; provided all the purchase money'should then he paid. That, previous , to the said last mentioned day, the intestate had made to the defendant large payments, on account of said land, but not the whole amount. That the intestate took and retained possession, until his death, which happened in July, 1826. That shortly after his death, and before letters of administration were granted, Castleberry entered and took possession of the premises, and, in April, 1830, sold them to one Gilliland.
+It also, appeared, that, after the last continuance, prior to the trial, the defendant below, had agreed with Gilliland, to take back the title, if necessary to convey to the heirs of the intestate.
+Evidence had also been offered, by the plaintiff below, that the letters of administration had been granted in February, 1827: that the heirs were minors : that the administrator applied to Castleberry for a settlement; that he refused, and denied having received any part of the purchase money.
+It was further proved, that oxen, cows, hogs, &c., sold by Castleberry to the intestate, in his life-time, were, after the death of the latter, taken into possession by the former, and that “ the children of the intestate were left without property.”
+On this evidence, the Court charged the jury, that the defendant, after the death of the intestate, had a right to rescind the contract, if the purchase money was not all paid, at the time he took possession, after the death of the intestate; and that his taking possession, and selling the same, might be considered a rescission of the contract.
+The Court farther charged, that if the contract was .rescinded, after the death of the intestate,, his administrator was entitled to recover hack the money, which had been paid on account of the purchase ; and that, if the contract was so forfeited and rescinded, a recovery in this action, was the only remedy left to either the administrator, or heirs of the deceased; that neither could sustain an action on the bond, or any suit for a specific performance.
+In giving the instructions, as above stated, the Circuit Court is charged to have erred.
+The Circuit Court seems to have proceeded on the principle, that the contract contained dependent stipulations ; at least, that the objection, on the part of Castleberry, to make a title to the land, depended on the payment of the money, by the intestate, on the day appointed; that this was a condition precedent, and if not complied with, Castleberry was thereby discharged from all obligation, and could rescind the bargain; yet, that the consequence of such rescission would be to create a liability on himself, to refund any amount he had received in part payment.
+Whether the principle adopted by the Court would have been strictly correct, if the controversy had arisen in a different form, is not material on the present occasion.
+The accuracy of the instructions is to be determined, with reference to the particular question then presented. They were, in substance, that the administrator of the intestate had a right, under the circumstances hypothetically stated, to recover back the money paid. The contract was, that the purchase money should fall due by two instalments; and, provided the whole was paid by the last given day, the title should he then made. There was no agreement for a re-entry by the vendor, in the event of a failure to pay, unless the right was implied, as the means of rescinding the contract.
+Put, as the vendor chose to claim and exercise this right, lie surely can have no ground, on which to object to the alleged rescission, unless he would still remain responsible to the heirs,, for a specific performance : his course, however, has evinced the contrary disposition; and this liability can not exist, if the circumstances created the right of rescission — for the re-entry was a sufficient indication, and execution of the intention to rescind.
+If, stricti juris, he could only rescind on the repayment of the money received; yet, as he claimed the privilege, without, and has received the benefit, and, as the adverse party has acquiesced in it, being willing to receive the re-payment now, the vendor is es-topped from insisting, that his re-entry and rescission were unauthorised.
+■ The authorities clearly recognise the doctrine, that where two acts are to be done at the same time, as where A covenants or agrees to convey an estate, or to deliver goods to B, on a named day, or generally, and, in consideration thereof, B covenants to pay A a sum of money, on the same day, or generally, neither can maintain an action, without showing a per-formalice of, or an offer to perform, or, at least, a reac^ness fo perform on his part — though it is not certain which of them was obliged to do the first act; and this rule applies particularly to contracts ’ , a -i i J of sale.
+The interest in question, whether it consist of the land, under a specific performance, or of the money to be recovered back in this action, must inure to the benefit of the same persons — to the heirs of the intestate generally, if there be no creditors; or, if creditors, then to them. In these respects, our law, and the reason of it, is essentially different from the principles of the common law.
+If it were possible to raise the money, out of the estate of the intestate, to complete the purchase, (admitting the right of the heirs to do so,) it could only be raised through the administrator; and he has sufficiently evinced the opposite intention.
+With us, where the heirs generally of the deceased, have an equal interest in the contracts for land titles, as well as others, the administrator may safely exercise a greater latitude of discretion, whether to insist on ■a specific performance, or to consent to a rescission, than can be tolerated in England, where the eldest mail heir has the exclusive interest if the contract be performed. And, as a general rale, the right to insist on a subsequent performance of a contract, involving dependent covenants, can only exist where, from the nature of the subject, the time of performance is not of the essence oí the contract; but the time for the payment of the money, has uniformly been considered a substantial and material part of every contract.
+Besides, the record shows, that the heirs were minors, and were left without property, from which it may he inferred, that they had neither the ability or disposition to complete the payment — especially after the re-entry, and supposed rescission, by the vendor.
+We, therefore, unanimously think the judgment of the- Circuit Court must be affirmed.
+1 Chit pl. 320 note™ 2ib. 352,n’. n’. 3; lEast! 3.03; 8 T.R 366.
