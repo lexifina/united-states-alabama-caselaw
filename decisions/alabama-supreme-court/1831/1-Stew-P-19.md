@@ -1,7 +1,8 @@
 ---
 court: "Alabama Supreme Court"
 decided: "1831-01"
-citations: ["1 Stew. & P. 19", "1 Stew. & P. 24"]
+decided_precision: "month"
+citations: ["1 Stew. & P. 19"]
 reporter: "stew-p"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["SCOTT versus RIVERS."]
 source_url: "https://static.case.law/stew-p/1/cases/0019-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8495064
-cites_cases: ["14 Johns. Rep. 63"]
 ---
 
 # Scott v. Rivers
