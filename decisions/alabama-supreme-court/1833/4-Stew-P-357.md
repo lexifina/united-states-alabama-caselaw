@@ -1,0 +1,37 @@
+---
+court: "Alabama Supreme Court"
+decided: "1833-06"
+citations: ["4 Stew. & P. 357"]
+reporter: "stew-p"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CUMMINGS VS. TINDALL, ex’or."]
+source_url: "https://static.case.law/stew-p/4/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8497258
+cites_cases: ["6 Mass. Rep. 394"]
+---
+
+# Cummings v. Tindall
+
+## Majority (Taylor, J.)
+
+Taylor, J.
+I shall notice but two of the objections which have been taken to the proceedings and judgment of the Circuit Court.
+1st. The executor could not maintain the action, without shoving, by a Vermont s in Iiis declaration, a right to sac, as lie cannot, simply as executor, maintain the action.
+2d. The verdict of the jury should have found the value of each patent, separately.
+It cannot be denied but that, in general, the heir is entitled to {he possccoion of the muniments cf title to real estate; and that lie may cue (he executor and recover them, unless horn some provision in (he veil!, or (under our statutes.) the insufficiency of (he personal estate, the executor has a superior right to' them. Bat it certainly does not follow, from this, that the executor cannot maintain an action against ci stranger. It often happens, that taro persons have a right of action, in different characters, for the lame injury; although one of thorn may afterwards recover against the other. A Íactor may sue for properiy consigned to him, in the hands cf a third person, or for an injury which it has sustained while in the possession of a carrier; although he would after-wards be liable to the suit of the owner : and a recovery by the factor would entirely discharge the carrier or stranger from all claim of the owner ; and this results from the factor’,s having a qualified property in the subject matter of the suit.
+So, in this case, the executor may sustain an action against the defendant; although he may be liable over to the heir. The representative has a qualified properly in the title papers, especially under our statutes; which authorise a sale of the lanes, to pay the general debts of the deceased, if there be a deficiency in the personal property to effect that object..
+The authorities cited by the plaintiff in error, to show that the executor can not sustain the action, are exceptions to the general rule: they specify particular cases in which the heir alone, can sue; but do not lay this down as the general doctrine.
+Fitzherbert, in his natura brevium, (page 325) says, “ if my father be disseised and dieth, I shall have a detinue for the charters, although I have not the land, and the exeeiitors shall not have the action for them.”
+The natural presumption, from this passage, is, that, in the general, the executors shall have the action; or why the use of this negative language, with respect to them 1 And so of the other cases which are specified in the same authority: and of the cases instanced in 3d Comyn’s Digest, page 6.
+And that this is not the general doctrine in England, is evident from the case of Hall and Wifevs. White, In that case, Mrs. Hall was the surviving executrix of one Calaway, and as such, sued the defendant, who was the executor of one Woolford, who had been the co-executor of Mrs. Hall, till his death. The declaration alleged, that the plaintiff had delivered the deeds to the defendant to be re-delivered upon request, but did not set out any other right to the deeds than as executor, generally. It was not denied, but that the plaintiffs had a right to recover in their character of surviving executors; but the only question was, as to the possession of the defendant. The allegation, that the plaintiffs had delivered the deeds to the defendant, was mere math ter of form : the proof was, that they had been in the hands of Woolford during his life; and the judgment was for the plaintiffs.
+] ( ( 1 j ] But the case of Torvle vs. Lovet, is precisely in point, and, indeed, stronger than the one at bar. In that case, the action of detinue, for the title deeds, was brought by' the administrator: and it was objected, that it could not be sustained—but the Court held, that it was well brought. The opinion was delivered by that able and enlightened jurist, Chief Justice Parsons ; who said, “ the defendant, although a stranger to the land, having no interest in it, has denied the plaintiff’s right to maintain this action, because the charters of inheritance, at common law, belong to the heir, and not to the administrator. We are satisfied, that in this State an administrator can maintain this action. In this State lands are assets, in the hands of an administrator, for the payment of debts, on a deficiency of personal estate: and in selling them it may be necessary for him to exhibit the title deeds to persons who propose to purchase. So, if the intestate has sold the lands with warranty, and after his decease an action is brought to evict the purchaser, by a party claiming under a paramount title, the administrator may be sued in an action of covenant broken, if the purchaser be evict-sd; and damages recovered; he may, therefore, have an interest to furnish the purchaser with the title feeds, to defend his title under the purchase. For ;hese reasons, in this State, the administrator has an interest, as against a.stranger to .the lands, who can aave no color of right to the deeds.”
+This reasoning seems to me, to be unanswerable; and it is equally as applicable to Alabama, as Massachusetts. Here, too, the administrator may maleé the real estate liable, in the event of a deficiency of the personal, to pay debts ; and he is equally subject to be sued upon the covenants of the decedent, if the land has been sold with warranty.
+Certainly the circumstance of there being no Chancery Courts in Massachusetts, can not vary the legal decision on a case of this kind: it is purely a legal inquiry.
+If it were necessary to prove any right in the plaintiff to recover the deeds, other than his being the' executor of the person who was entitled to them, as that the real estate was vested in him by the will. &c: I should be of opinion, that such proof could be made without any special averment in the declaration. The form of the declaration in detinue, is a fiction, and any facts authorising a recovery; can be proved without making special averments of them.
+I therefore, think the action may well be maintained, as it has been brought.
+On the second point, however, the case must be reversed — as it was certainly necessary that the jury should have assessed the value of each patent, distinctly. This is admitted to be the rule, as to personal property ; but a distinction has been attempted, where title papers are tire subject of the action.Did the papers relate to the title, of the same land, there might be some reason for the distinction but as this is not the case, I can see none — nor has any authority been adduced tending to sustain the verdict.
+I therefore, think the judgment should he reversed and the cause remanded: and this is the unanimous opinion of the Court, on the last point. On the first, however, the majority give no opinion, as to a right to recover generally; though it is the opinion of the majority, that the plaintiff is authorised to prove that the title to the deeds is vested in him, and is not in the heir, without a special averment.
+14 Eng. Com. Law Rep 243.
+6 Massa. Rep. 394,
