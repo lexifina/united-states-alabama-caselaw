@@ -1,7 +1,8 @@
 ---
 court: "Alabama Supreme Court"
 decided: "1824-12"
-citations: ["1 Minor 289", "1 Minor 365"]
+decided_precision: "month"
+citations: ["1 Minor 289"]
 reporter: "minor"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
