@@ -1,0 +1,34 @@
+---
+court: "Alabama Supreme Court"
+decided: "1832-06"
+citations: ["3 Stew. & P. 15"]
+reporter: "stew-p"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NABORS et al. versus THE GOVERNOR."]
+source_url: "https://static.case.law/stew-p/3/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8496439
+---
+
+# Nabors v. Governor
+
+## Majority (Saffold, J.)
+
+Saffold, J.
+This was a summary proceeding, in the County court of Shelby county, bn a notice which issued from A. Smith, Treasurer of the county, by his attorney, Richard C. Shackelford, to A. Nabors, tax collector, and hú: occnritkm, Good', and M’Latia-ha-n. It required them to appear at court, “forfail-ing to pay over tho amount oí’ the county and extra tax, belonging- to, the county of Shelby, for the year 18297 The notice v .s corvod Ijv the sheriff.
+At the term at which the trial was had, Smith, the treasurer, filed a statement, setting forth the grounds of his motion. In this statement, he entitled the case, “A. Smith, County Treasurer vs. A. Nabors and others,” and declared th&t said defendants were “justly indebted to Gabriel Moore, Governor of the State of Alabama, for the use of Shelby county, in the sum of four hunched and twenty-six dollars and sixty-nine and three-fourths cents,” for so much money received by said Nabors, as collector, as aforesaid, and which he had refused to pay- ’ _
+_ To this statement the'collector and his securities demurred. On. hearing the demurrer, the court overruled it: and, the defendants failing to plead over, judgment was rendered, by the court, against all the defendants, for the sum mentioned.
+It is shewn, that, before the proceedings were had on the demurrer, on motion of the defendants, the benefit of a trial by jury was granted to them : also, that S. W. Mardis, as amicus curiӕ, had moved to dismiss the proceedings, for want of proper parties. The original defendants, as plaintiffs in error, now assign, .as causes of error—
+1. That the court ought, to have dismissed the proceedings, for the want of proper parties.
+2. That there was error in overruling the demurrer.
+3. The'notice was uncertain; and insufficient, and not legally served. . _
+4. The judgment was rendered by the court, without the. intervention of a jury, and without proof of the material facts.
+The first, second and fourth assignments may be considered together: The bond, given by the tax-collector, and his securities, was required, by statute, to have been made payable, to the Governor, for the time being, and his successors in office. From the slight notice taken of it in this record, it is presumed to haVe been drawn payable accordingly; and the argument assumes such to have been the fact-No direction has been given by statute, who shall be made the plaintiff, in a proceeding of this kind, for the collection of the revenue: the consequence must be, that the suit, whether in the summary or ordinary form, should be brought in the name of the obli-gee, or his successor in office, he being the person, "in whom is vested the legal interest in the bond.It was so held by this court, in the case of Mayberry vs. The State, where the judgment was reversed7 because the proceedings, on a similar bond, were instituted in the name of the State, for the use of Bibb county. The suit is required to be brought in the name of the Governor, for the time being, for the use of the particular county. .
+It is however insisted in argument, that tills- suit has been brought in the manner alluded to as correct-It is difficult to say from the record whether the county Treasurer, the Stale, or the Governor, was intended to be made-plaintiff, or whether the object was to place them all on the record in such attitudes, that the one found the most acceptable, migh the claimed as such. The statement which was intended to declare the grounds of the motion, as has been shewn, entitles the suit as one between “ A. Smith, county Treasurer vs. A. Nabours,” and his securities, (naming them;) and says, the plaintiff avers that said defendants are justly indebted to Gabriel Moore, Governor,” &c. It would appear that the treasurer sues for the use of the Governor, and. the latter for the use of the county, or at least that it is uncertain which is plaintiff. Reference to the notice affords no greater certainty. This is considered a fatal defect, for'which the proceedings ought to have been quashed, on motion, or the statement overruled on-demurrer.
+■Another fatal defect consists in the failure of the plaintiff below, to give any description of the bond of the collector, which alone created any liability on the securities. If the statement was relied on for -the establishment of the requisite facts, because, having been demurred to, the truth of the averments were thereby admitted, it was the more important that every material fact should have been stated.— On the contrary it is found to contain.no notice or mention of the bond: nothing but a charge of indebtedness against said collector, and Gooch and Mc-Lanahan, as his securities, to a given amount-, for so much-money received, by the former as collector, &c. If the admissions of the demurrer, and which can on-, ly extend to matters properly pleaded, were not relied on for the facts necessary to sustain the judgment, then, as has been held by this court, in several cases. cited by the counsel, the record should have shown that the material facts were proven on the trial; and among other things, that the bond was adduced in evidence; and that the amount for which judgment was rendered appeared from competent proof to have been due. In summary proceedings, this court, as well as others, has often held, that the authority of the statute must appear to have been strictly pursued. ; for that the ordinary legal intendments do not apply, in such cases, in aid of uncertainties, or insuffi-ciencies — Logwood vs. Huntsville Bank, McWhorter vs. Marrs, Lyon vs. the State Bank.
+3. With respect to the third assignment, it is sufficient to i'emark, that the notice to the collector and his securities,, appears to have been served by the sheriff of the proper county. Such service is deemed legal and sufficient. Nor was it necessary the'notice'should shew the amount claimed. But the notice is in other respects indefinite and insufficient; it does not define its object, whether it was to obtain a judgment for the amount of the'county tax, or for what other purpose; it only requires the defendant to appear, “ for failing to pay over the amount of the county and extra tax.” For all-which insufficiencies, we unanimously think the judgment and proceedings must be reversed.
+T Stewart, 266
+Ala Reps. 25
+Id. 376.
+1Stewart, 466
