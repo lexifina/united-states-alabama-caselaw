@@ -1,0 +1,24 @@
+---
+court: "Alabama Supreme Court"
+decided: "1832-06"
+citations: ["2 Stew. & P. 243"]
+reporter: "stew-p"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DEARING vs. HALL."]
+source_url: "https://static.case.law/stew-p/2/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8496246
+---
+
+# Dearing v. Hall
+
+## Majority (Lipscomb, C. J.)
+
+Lipscomb, C. J.
+This was an action to recover a piece or parcel of ground. The plaintiff derived his title from the United States, as assignee of Pet-nay, who was the original purchaser from the United States, and who had paid one-fourth of the purchase money, at the time he made the transfer to the plaintiff. On the trial the plaintiff gave in evidence of his title a patent for the land from the United States.
+The defendant relied on a deed from Petnay, leasing the land to him, in' the following words— Articles of agreement, made and entered into the first day of January, eighteen hundred and nineteen, between H. Petnay & Co. of Williamson county, and state of Tennessee, of the one part, and David Hall, of Lawrence county, Alabama territory, of the other part, witnesseth, that whereas the said H. Pet-nay & Co. are at present owners and in possession of the north and south west quarter of land in the twenty-third section, ninth range, and fourth township, a part ef each quarter section crossing Town creek, and adjoining the land of Obadiah Waller; now the said H. Petnay & Co. agree to and with the said David Hall, that he the said David Hall shall have the privilege of building such houses on the land lying east of Town creek, as he may need for the private use of himself and family, and may have the use of such timber as may be actually necessary for fire wood and coal wood, and may have the privilege of clearing and cultivating as much ground as he chooses, with what hands he at present has, but not to place any hired hands’of any kind thereon; the said Petnay & Co. further agree to keep the said Hall in the quiet possession of the ground, which is in cultivation, and whereon his houses stand, so long as the said Hall keeps a good and well regulated blacksmiths’ shop on the same, rvhich said blacksmiths’ shop is to be kept in constant operation by the said Hall himself, and by his own labor: Provided always, that the said Petnay & Co. do not forfeit the land back to the United States; they only protect the said Hall in the possession of said land against themselves and heirs, and against those to whom they may sell to, but not against the United States: and the said Hall, on his nart, binds himself not to sell or destroy any part of the timber, but to be careful in the use of it; and whenever he the said Hall fails to comply with any part of this agreement, the land reverts back to the said Petnay & Co. with all the improvements of every description, rails, plank, scant-ling, and every kind of work which may have been done; including locks, hinges, &c.” (Signed by the parties.)
+The court charged the jury, that if the plaintiff had notice of the lease by Petnay to the defendant, at the time of the purchase of the said land; that he stood in the same relation to the defendant that Pet-nay would have stood; and that the plaintiff being the assignee of Petnay, he held subject to the warranty made by Petnay, to the defendant, in the said demise.
+This charge of the court is assigned as error.
+Petnay on the payment of one-fourth the purchase money to the United States, did not acquire a more equitable title to the land, but he acquired such title as a court of law would have been bound to notice. The fee simple was to vest in him, on a contingency to be performed by himself, and if performed, his right in law would have been complete against the United States, and against all the world, even without the patent of the United States. The patent is never designed to give title of itself; it is only a more safe and convenient evidence of the fulfilment of the terms of the sale and the consummation* of title. Petnay reserved to himself the privilege in the demise to Hall of forfeiting the land to the United States, and in the event of such forfeiture, the-warranty was to fail. Petnay would not have-been liable to damages had the defendant been ejected by the United States, or any one holding under the United States, subsequent to such forfeiture. But he expressly extends the warranty against any one to whom ho might sell. 'We can not consider the plaintiff, if affected with notice, as occupying a more eligible ground, that Petnay would have, had he paid for the land, and on obtaining a patent, had then endeavored to eject the defendant.
+We are therefore of opinion that the judgment must be affirmed.
