@@ -1,0 +1,26 @@
+---
+court: "Alabama Supreme Court"
+decided: "1833-01"
+citations: ["3 Stew. & P. 131"]
+reporter: "stew-p"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M’CAUSLAND versus NEAL."]
+source_url: "https://static.case.law/stew-p/3/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8496635
+---
+
+# M'Causland v. Neal
+
+## Majority (Lipsomb, C. J.)
+
+Lipsomb, C. J.
+This was an action brought in a summary way, by motion, against Neal, sheriff of Madison county, for failing to return an execution in favor of the plaintiff, against one Robinson. The execution had been placed in the hands of Burford, one of the sheriff’s deputies, who had given bond for the faithful discharge of his trust, and for the indemnification of his principal. A j udgment was rendered against the sheriff, ajid he then, in open court;, had entered of record, a release to Burford of all claims against him, to indemnity for his acts in the case of M’Causeland vs. Robinsdn. The judgment was then, on motion, set aside, and a new trial granted.
+At the next term Burford was offered by the sheriff, as a witness in his behalf: and when examined on his voire dire, said, “ that he had been released by the sheriff, and had been told, and believed, that the release was good in law. On being further examined, he said that he had stated to Neal, subsequent to the release, that he should not suffer,in consequence of that, or any other, failure of his, as his- deputy : and that he still felt in honor bound to secure him from injury.”.
+An objection was then made to his competency as a witness, on the ground of interest. But the objection was overruled.
+It is contended that the Circuit court erred in permitting the entry of release on the record, to be read, as binding on Neal and his securities.
+It does not appear that Burford had ever given bond to the sheriff’s securities, but that it wms only to the sheriff, and his liability was to him. The release was, therefore, as broad as the liability, and could only.be made by the sheriff; and he alone could 'relinquish that liability, and extinguish the interest that hjs deputy Mould have had in the result of the suit. We have had some difficulty in approving the mode in which the release was entered on the record. It would certainly have been more correct to have made a deed of release: it is not a matter that fairly belongs to the records of the court; and there possibly would be some difficulty in using a release so made, in any other court, if the rigid rules govern-' ing records, should be enforced, as it may be questioned whether an exemplification of the record, under the seal of the court, would be evidence of this release. We believe, however, that long established practice, affords,, in some measure, a sanction to releases made in this way. And when the whole case is considered, it would not be assuming too much to receive it as a part of the record of the case, at least in the court where it was entered.
+It is further contended, that, admitting the release to have been valid, yet the. subsequent declaration of the witness, that he felt himself, in honor bound to indemnify his principal, and that he had told him he should not suffer, rendered him incompeteut.
+The distinction between the competency and credibility of a witness is now well settled; and however refined and subtle it may be in some cases, and the present Lord Chancellor Brougham, has shown, that in some, they have been refined into absurdities; (see speech on the state of the law, 103:) yet they have Been all directed to one point, that of frittering down the objections to the competency of a witness, and reposing more upon the credibility he may obtain with the jury. The English courts have felt the inconvenience of the rigid rule of law, that a, man having an. interest, however small, in a suit, should be wholly rejected as a witness, and one admitted, who, although not affected by any legal interest, is tempted by every passion of the human heart, to a bias in favor, or against, one of the parties; hence the continued efforts to refine away objections to the Competency of a witness, and permitting the testimony to rest on its credibility with the jury. And it is thought, by many able jurists, after a great deal of experience, that the cause of truth and substantial justice, would be essentially promoted by removing, entirely, the objection on the ground nf interest, and making all such objections, as now go to the admissibility of a witness, go to to his credibility.. The tendency of the decisions in this country, has been in the same direction. And the rule.of evidence is now established, by the courts of all the States in the Union, excepting, perhaps, Connecticut, that'to exclude a witness on the ground of interest, he must have a legal interest in the result of the suit: all objections short of this, arising out of the peculiar understanding, or' relations, subsisting between him and the party in whose favor he is called to testify, will go to his credibility with the jury.
+We are therefore of opinion there is no error, and the judgment’must be affirmed.
