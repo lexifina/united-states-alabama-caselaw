@@ -1,0 +1,31 @@
+---
+court: "Alabama Supreme Court"
+decided: "1833-06"
+citations: ["4 Stew. & P. 318"]
+reporter: "stew-p"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WYATT VS. GREER, et al."]
+source_url: "https://static.case.law/stew-p/4/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8497159
+---
+
+# Wyatt v. Greer
+
+## Majority (Lipscomb, C. J.)
+
+Lipscomb, C. J.
+This is an appeal 'from the de- . cree of the Court of Chancery, sitting for Autauga County.
+The bill, in substance, states that in July, 1822, Peter Wyatt purchased of Moses- Greer, a negro man slave. That Greer represented the negro to be of good character; that he gave a bill of sale, warranting such, as the complainant believes. That the bill of sale is lost or mislaid, and believes it to have been taken from his house with a sum of money, stolen from him. That the slave proved to he of a bad character, repeatedly running away, atid committing felonies'; and that he was at length tried, and condemned and executed, for a felony committed by him, in the County of Dallas. That the complainant never received any service from the said slave; that he ran away in about a week after the purchase was made. That the complainant had expended considerable sums of money in the- defence of the slave, when charged with felony. The bill charges, that the said Moses Greer knew at the time of the sale, that the slave was of a had character. That Greer does not reside in this State, but some where in the State of Georgia. That he, (the complainant,) knows of no property or funds, from which he could reimburse himself for his less. That the complainant gayo in payment for the said negro slave, a promissory note, on his, (the complainant’s) brother, William Wyatt, dated 15th July, 1820, and payable one day after date, for five hundred and fifty-one dollars, and a horse, saddle and bridle, worth one hundred dollars. That the note on William Wyatt has been put in suit in the name of one Moses Campbell; and judgment recovered thereon. That the money has not been paid by William Wyatt; but that it soon will be, if the interposition of the Court of Chancery should not prevent it. That Campbell has no interest in the judgment, his name only being used, to promote the views of Greer, or to avoid the necessity of giving security for costs of suit.
+The bill prays that Campbell and Greer should he enjoined from further proceedings on the judgment •at law, until a final decree is made; and that William Wyatt should be enjoined from paying over the amount of the judgment.
+The answer of Greer denies that the warranty is for more than the title and soundness of the slave— denies any knowledge of his bad character — says that Campbell has no interest in the judgment against William Wyatt — that the interest in that judgment was in his brother, James Greer, alone — that he had transferred it to his brother very shortly after the sale of the negro — denies his inability to pay any damages that might be recovered against him, in a Court of law, for any breach of warranty, in the sale of said slave.
+The answer of Cambell admit,? that he has no interest in the judgment, and that he never had any. That the suit was brought in his name, merely as a friendly act to Greer, who is his relative, and to avoid giving security for costs.
+Wyatt, in his answer, says that he has not paid the amount; but that he is ready to do so, when and wheresoever he may be directed by the Court.
+The testimony, though it is not altogether conclusive, preponderates in favor of the truth of the alle-the gation in the bill, of a warranty of the character of slave; and it fully establishes his very bad character, a short time after the sale; although there is no testimony, as to what it was at the time of the sale.
+When there is any uncertainty or conflict in the testimony of a fact, it is believed to be proper that it should be tried by a jury, on an issue made up and sent to the Court of law. It would be more peculiarly the province of a jury, in a Court of law, to determine, whether there had been a breach of warranty, and as to the damages for such breach.
+The non-residence of the defendant, Greer, and his having nothing but this fund, in the hands of William Wyatt, when coupled with the fact that the contract was made here, and its breach, if any, was within the jurisdiction, is a sufficient ground for Chancery taking cognizance of the matter. Should it be denied, the complainant would be driven to seek redress in a foreign tribunal.
+It is very clear, that the facts disclosed, sufficiently shew, that the complainant has no adequate remedy at law, in this State; and that he would be compelled to seek it wherever the person of the defendant could be found.
+The objection, that James Greer ought to have been made a party, is not available. We have no evidence, that he has ax? interest in the judgment at law, but the disclosure, to that effect, in Moses Greer’s answer. If, however, it be true, that he is the owner of the judgment at law, against William Wyatt, his interest is not likely to suffer, from his ignorance of his rights ; as Campbell, who seems to have been an agent in the management of the suit at law, has had notice, and been made a party. This would affect James Greer, with notice of the pen-dency of the suit; and if he is not satisfied that his interest will be sufficiently protected, he ought to have applied for permission to be made a party.
+But, independently of the objections before suggested, to the Chancellor deciding on the fact of the warranty, and the amount of damages for its breach, if a breach is proven, we find the bill so very imperfect, that no decree of relief can be made. The Chancellor below, ought to have ordered it to have been amended before it could be heard on its merits. It does not pray either general or specific relief. It only prays the injunction, until a final decree is made.
+As these defects are fairly chargeable to the complainant, we shall, in reversing the decree of dismissal entered by the Chancellor below, and remanding the cause, tax the complainant with the payment of all the costs of this Court,
